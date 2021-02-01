@@ -23,7 +23,12 @@ washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 The following are useful credits:
 ~ Commit style: https://udacity.github.io/git-styleguide/
+
 ~ Dealing with Gitignore: https://git-scm.com/docs/gitignore
+
 ~ inspired by: https://github.com/richardkalehoff
+
+~ Pushing & Pulling: https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
