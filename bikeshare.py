@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Defintion of the arraies
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -20,9 +21,10 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
+# Defintion of varibles that test the loops
     city_=''
     month_=''
-    day_ = '' # to test the loops
+    day_ = '' 
 
     print('Hello! Let\'s explore some US bikeshare data!\n')
 
